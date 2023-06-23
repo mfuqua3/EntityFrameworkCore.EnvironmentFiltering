@@ -1,0 +1,39 @@
+# .NET 7 Web App
+
+# Build artifacts
+bin/
+obj/
+
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.json
+
+# Visual Studio files
+.vscode/
+*.sln
+*.csproj
+*.csproj.user
+*.user
+*.vs
+*.vscode
+
+# NuGet
+packages/
+
+# Test Results
+TestResults/
+
+# Logs
+*.log
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
