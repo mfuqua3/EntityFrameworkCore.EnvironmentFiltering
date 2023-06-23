@@ -1,5 +1,6 @@
 # .NET 7 Web App
 
+.idea/
 # Build artifacts
 bin/
 obj/
